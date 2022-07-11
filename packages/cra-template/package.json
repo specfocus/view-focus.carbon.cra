@@ -3,13 +3,14 @@
   "version": "1.2.0",
   "keywords": [
     "react",
+    "carbon",
     "create-react-app",
     "template"
   ],
   "description": "The base template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/specfocus/view-focus.carbon.cra.git",
     "directory": "packages/cra-template"
   },
   "license": "MIT",
